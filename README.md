@@ -8,13 +8,31 @@
 - &#9917; 2021 Goals: Create Angular Libraries & Contribute more to Open Source Projects
 - 📫 How to reach me: chaitanyasairam.d@gmail.com
 - ⚡ Fun fact: I love to play guitar🎸
+<br/>
 
-### Libraries
- - [ngx-encrypt-cookie](https://www.npmjs.com/package/ngx-encrypt-cookie)
-  - it is an angular library which helpful to store the data in cookies with encryption and it will decrypt vice versa.
+### Languages and Tools:
 
-### Projects
-  - [Propl](https://propl.in)
-   - it is a static website which i and my friend [Sandeep](http://www.github.com/devsandeep26) both worked on.
+ [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+<!--
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> -->
 
-### Below are the Repo which i have worked on
+<br />
+<br />
+
+
+<!-- ### ⚡ Github Stats
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="chaitanyasairam-d GitHub Stats" src="https://github-readme-stats.chaitanyasairam-d.vercel.app/api?username=chaitanyasairam-d&show_icons=true&hide_border=true" />
+
+</details> -->
