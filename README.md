@@ -38,6 +38,9 @@
 
 </details>
 <br/>
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyasairam-d)](https://github.com/chaitanyasairam-d/github-readme-stats)
 
 ### Connect with me:
 
