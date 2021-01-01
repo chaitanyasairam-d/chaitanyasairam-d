@@ -34,7 +34,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaitanyasairam-d)](https://github.com/chaitanyasairam-d/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaitanyasairam-d&hide=issues&show_icons=true&theme=vue )](https://github.com/chaitanyasairam-d/github-readme-stats)
 
 
 </details>
