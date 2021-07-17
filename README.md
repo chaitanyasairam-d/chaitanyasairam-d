@@ -3,7 +3,6 @@
 ### I am a Full Stack Web Developer
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Open Source Projects
 - &#9917; 2021 Goals: Create Angular Libraries & Contribute more to Open Source Projects
 - 📫 How to reach me: chaitanyasairam.d@gmail.com
