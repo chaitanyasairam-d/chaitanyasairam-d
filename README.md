@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 👯 I’m looking to collaborate on Open Source Projects
-- &#9917; 2021 Goals: Create Angular Libraries & Contribute more to Open Source Projects
+- &#9917; 2022 Goals: Create Angular Libraries & Contribute more to Open Source Projects
 - 📫 How to reach me: chaitanyasairam.d@gmail.com
 - ⚡ Fun fact: I love to play guitar🎸
 <br/>
